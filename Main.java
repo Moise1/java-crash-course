@@ -1,6 +1,7 @@
 import java.text.NumberFormat;
 import java.util.Scanner;
 
+// Mortgage calculator
 
 public class Main{
     public static void main(String[] args){
@@ -30,5 +31,3 @@ public class Main{
 }
 
 
-  
-// Stopped at 1:36:21
